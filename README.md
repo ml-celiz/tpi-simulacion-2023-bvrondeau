@@ -3,4 +3,5 @@ Criterios para la optimización de tráfico mediante configuración de tiempos d
 
 Archivos:
  * .pdf -> Informe
+ * .xls -> Test 
  * .pl -> Ejecutable Anylogic de la simulación
